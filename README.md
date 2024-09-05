@@ -1,5 +1,5 @@
-# Olá, meu nome é Samira 👋
-### Bem vindo ao meu perfil GitHub
+# Hello, my name is Samira 👋
+### Welcome to my GitHub profile
 - 🌱 I’m currently learning SQL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiradesousa&show_icons=true&theme=radical)

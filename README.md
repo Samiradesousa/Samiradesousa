@@ -1,6 +1,6 @@
 # Hello, my name is Samira 👋
 ### Welcome to my GitHub profile
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning HTML/CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiradesousa&show_icons=true&theme=radical)
 
